@@ -1,0 +1,9 @@
+"Test Suite","Test Case","Test Step","Step Type","Step Status","Result message","Execution Date"
+"TestSuite 1","TestCase 1","Add","request","OK","","15-Jun-2021 19_13",
+"TestSuite 1","TestCase 1","Groovy Script","groovy","OK","","15-Jun-2021 19_13",
+"TestSuite 1","TestCase 1","Multiply","request","OK","","15-Jun-2021 19_13",
+"TestSuite 1","TestCase 1","GroovyProperties","properties","OK","","15-Jun-2021 19_13",
+"TestSuite 1","TestCase 2","Add","request","OK","","15-Jun-2021 19_13",
+"TestSuite 1","TestCase 2","Groovy Script","groovy","OK","","15-Jun-2021 19_13",
+"TestSuite 1","TestCase 2","Multiply","request","OK","","15-Jun-2021 19_13",
+"TestSuite 1","TestCase 2","GroovyProperties","properties","OK","","15-Jun-2021 19_13",
